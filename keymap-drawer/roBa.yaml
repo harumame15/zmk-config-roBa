@@ -36,7 +36,7 @@ layers:
   - {t: ., s: '>'}
   - {t: /, h: '$$mdi:apple-keyboard-shift$$', s: '?'}
   - $$mdi:apple-keyboard-control$$
-  - {t: '$$mdi:apple-keyboard-command$$', h: 'Gui+$$mdi:keyboard-space$$'}
+  - $$mdi:apple-keyboard-command$$
   - {t: LANGUAGE 1, h: LANGUAGE 2}
   - $$mdi:apple-keyboard-option$$
   - {t: '$$mdi:backspace$$', h: NUM}
